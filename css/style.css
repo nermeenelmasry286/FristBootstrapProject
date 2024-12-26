@@ -26,3 +26,18 @@
     max-height: 200px;
     object-fit: cover;
 }
+.about-content {
+    padding: 6rem 0;
+    background-color: rgb(26, 188, 156);
+    color: white;
+}
+
+.about-content .star-span {
+    background-color: white;
+    border-color: white;
+}
+
+.btn-xl {
+    padding: 1rem 1.75rem;
+    font-size: 1.25rem;
+}
