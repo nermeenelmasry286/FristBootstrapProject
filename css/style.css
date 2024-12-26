@@ -1,6 +1,6 @@
 .carousel-img-height {
-    height: 600px;
-   
+    height: 600px; 
+    object-fit: cover;
 }
 
 .carousel-indicators [data-bs-target]{
@@ -9,3 +9,20 @@
     border-radius: 50%;
 }
 
+.star-span {
+    max-width: 7rem;
+    width: 100%;
+    background-color: black;
+    height: 0.25rem;
+    border-color: black;
+    display: block;
+}
+.star-width {
+    width: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.portfolio img{
+    max-height: 200px;
+    object-fit: cover;
+}
